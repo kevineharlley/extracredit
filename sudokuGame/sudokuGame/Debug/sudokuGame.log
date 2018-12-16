@@ -1,0 +1,6 @@
+﻿  sudokuGame.cpp
+h:\object-oriented development lab\extracredit\sudokugame\sudokugame\sudokugame.cpp(50): warning C4018: '<': signed/unsigned mismatch
+h:\object-oriented development lab\extracredit\sudokugame\sudokugame\sudokugame.cpp(116): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+h:\object-oriented development lab\extracredit\sudokugame\sudokugame\sudokugame.cpp(192): warning C4018: '<': signed/unsigned mismatch
+  sudokuGame.vcxproj -> H:\Object-Oriented Development Lab\extraCredit\sudokuGame\Debug\sudokuGame.exe
+  sudokuGame.vcxproj -> H:\Object-Oriented Development Lab\extraCredit\sudokuGame\Debug\sudokuGame.pdb (Full PDB)
